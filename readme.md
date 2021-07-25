@@ -1,4 +1,4 @@
-# NodeJS+TypeScript StarterKit
+# Supertest + TypeScript StarterKit
 
 ## Getting Started
 1. Install dependencies
