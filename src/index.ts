@@ -12,7 +12,7 @@ const mocha = new Mocha({
 
 const testDir = 'tests'
 
-// Add .js test file on mocha instance
+// Add .ts test file on mocha instance
 fs.readdirSync(testDir)
   .filter((file) => {
     return file.substr(-3) === '.ts'
